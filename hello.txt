@@ -1,3 +1,0 @@
-hello world!
-let's hello again!
-hello one more time!(test2)
